@@ -1,1 +1,1 @@
-# ionic-sahreGamesbs2018.2
+# ionic-shareGamesbs2018.2
